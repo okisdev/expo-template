@@ -6,6 +6,7 @@ export default function App() {
         <View>
             <Text>Open up App.tsx to start working on your app!</Text>
             <Link href='/about'>Go to About</Link>
+            <Link href='/1/hello/4'>Go to Hello</Link>
         </View>
     );
 }
